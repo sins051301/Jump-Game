@@ -1,0 +1,25 @@
+ body {
+    background-image: url('삽화/마리오시작배경.jpg');
+    background-size: 1000 738s;
+} 
+#score{
+    position: absolute;
+    top:25px;
+    right:50px;
+    font-style: normal;
+    font-size: larger;
+}
+#Hi{
+    position: absolute;
+    top:25px;
+    right:200px;
+    font-style: normal;
+    font-size: larger;
+}
+#coin{
+    position: absolute;
+    top:25px;
+    left:50px;
+    font-style: normal;
+    font-size: larger;
+}
